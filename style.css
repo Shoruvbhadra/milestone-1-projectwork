@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+.intro{
+    height: 400px;
+    border: 2px solid green;
+    margin-top: 50px;
+}
+.first-section{
+    height: 350px;
+    margin-left: 60px;
+    margin-top: 60px;
+    display: inline-block;
+}
+a{
+    border: 2px solid black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25px;
+    margin-top: 15px;
+    background: rgb(10,112,109);
+    background: radial-gradient(circle, rgba(10,112,109,1) 0%, rgba(13,61,61,1) 100%);
+}
+img{
+    height: 450px;
+    width: 500px;
+}
+.second-section{
+    height: 350px;
+    float: right;
+    margin-right: 350px;
+}
+.third-section{
+    margin-left: 150px;
+    display: inline-block;
+}
+.forth-section{
+    height: 350px; 
+    margin-top: 30px;
+    display: inline-block;
+    margin-right: 460px;
+    float: right;
+}
+span{
+    font-size: 35px;
+    color: rgb(5, 119, 119);
+}
+h2{
+    font-size: 30px;
+    color: tomato;
+}
